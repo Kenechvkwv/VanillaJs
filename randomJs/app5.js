@@ -18,3 +18,10 @@ const user = {
 // console.log(this);
 
 user.sayName();
+
+//create a function for addition ES6
+let add = (num1, num2) => {
+  console.log(num1 + num2);
+};
+
+add(6, 6);
