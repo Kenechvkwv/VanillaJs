@@ -1,12 +1,13 @@
-console.log("Hey Kc");
+console.log("holla holla holla");
 
 // Variables and DataTypes
 var number = 100; //This is an integer
 var hisname = "Ebere"; //This is a string
+
 console.log(hisname);
 console.log(number);
 
-number = number / 3;
+number = number / 4;
 console.log(number);
 
 //Boolean DataType
